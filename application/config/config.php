@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-date_default_timezone_set('Asia/Kolkata');
+date_default_timezone_set('Asia/Jakarta');
 /*
 |--------------------------------------------------------------------------
 | Base Site URL
@@ -24,7 +24,7 @@ date_default_timezone_set('Asia/Kolkata');
 |<em></em>
 */
  
-$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/Chat-application/';
+$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/git/jquery-chat/';
 /*
 |--------------------------------------------------------------------------
 | Index File
